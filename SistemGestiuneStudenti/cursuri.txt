@@ -1,0 +1,20 @@
+1,Programare Orientata pe Obiecte,Popescu Andrei
+2,Structuri de Date,Marin Ioana
+3,Baze de Date,Stoica Vlad
+4,Algoritmi si Programare,Enache Maria
+5,Arhitectura Calculatoarelor,Georgescu Mihai
+6,Ingineria Programarii,Tudor Elena
+7,Proiectare Software,Ilie Cristina
+8,Retele de Calculatoare,Moldovan Paul
+9,Sisteme de Gestiune a Bazelor de Date,Voicu Rares
+10,Programare Web,Petrescu Bianca
+11,Inteligenta Artificiala,Barbu Stefan
+12,Machine Learning,Matei Ioana
+13,Programare Functionala,Grigore Vlad
+14,Matematica Discreta,Enache Andreea
+15,Programare Mobile,Pop Ana
+16,Analiza Algoritmilor,Sandu George
+17,Cloud Computing,Toma Irina
+18,Big Data,Zamfir Raluca
+19,Securitate Cibernetica,Neagu Florin
+20,Blockchain,Lazar Diana
