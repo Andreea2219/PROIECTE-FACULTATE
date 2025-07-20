@@ -1,0 +1,5 @@
+Furnizor,Material,Cantitate,Data
+Ana,ciment,15,2025-05-17
+Marian,caramida,10,2025-05-17
+Ana,ciment,2,2025-06-02
+Marian,caramida,10,2025-06-02

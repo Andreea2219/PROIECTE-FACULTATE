@@ -1,0 +1,4 @@
+Denumire,Cantitate,Pret
+ciment,20,30
+pamant,25,10
+caramida,100,9

@@ -1,0 +1,4 @@
+ID,Nume,Email,Telefon,Materiale
+1,Ion,Ion@gmail.com,745239418,lemn
+2,Ana,Ana@gmail.com,784352617,ciment
+3,Marian,Marian@gmail.com,746352917,caramida
